@@ -18,11 +18,13 @@ Install as a standard Wordpress Plugin
 ### Implementation
 
 Enable the BB Module through site Settings \ Page Builder in WP Admin
+
 S&F Configuration
 - Display Results Method = Custom
 - Results URL - must be specified if using AJAX
 - AJAX Container = .fl-module-post-grid
 - Pagination Selector = .fl-builder-pagination a
+
 BB Post Module
 - Layout - only Columns currently supported
 
