@@ -34,6 +34,7 @@ BB Post Module
 - BB Post layout only Columns is supported
 - Results URL must be specified in S&F configuration which limits reusability of S&F configurations across pages
 - After publishing a page you sometimes need to do a page-refresh in order for filtering to work
+- Only one S&F module instance per page
 
 ### Acknowledgments
 
