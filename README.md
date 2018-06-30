@@ -39,3 +39,5 @@ BB Post Module
 ### Acknowledgments
 
 This code significantly leverages the BB integration work done by FacetWP LLC and their Beaver Builder Integration plugin. FacetWP is a Search and Filtering plugin for Wordpress that provides a number of features and extensions that Search & Filter does not currently provide - http://www.facetwp.com
+
+### Extras
