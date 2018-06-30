@@ -4,6 +4,7 @@ Plugin Name: Search&Filter - Beaver Builder
 Description: Integration of Search & Filter and Beaver Builder
 Version: 1.1
 Author: Dean Cleave-Smith
+GitHub Plugin URI: https://github.com/deancs/sf-bb-plugin
 */
 
 defined( 'ABSPATH' ) or exit;
