@@ -2,7 +2,7 @@
 /*
 Plugin Name: Search&Filter - Beaver Builder
 Description: Integration of Search & Filter and Beaver Builder
-Version: 1
+Version: 1.1
 Author: Dean Cleave-Smith
 */
 
